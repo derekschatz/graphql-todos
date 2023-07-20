@@ -1,11 +1,11 @@
 {
-  "main.js": "/derekschatz/graphql-todos/static/js/main.303a06e1.chunk.js",
-  "main.js.map": "/derekschatz/graphql-todos/static/js/main.303a06e1.chunk.js.map",
-  "static/js/1.49b969fe.chunk.js": "/derekschatz/graphql-todos/static/js/1.49b969fe.chunk.js",
-  "static/js/1.49b969fe.chunk.js.map": "/derekschatz/graphql-todos/static/js/1.49b969fe.chunk.js.map",
-  "runtime~main.js": "/derekschatz/graphql-todos/static/js/runtime~main.69fc2fd9.js",
-  "runtime~main.js.map": "/derekschatz/graphql-todos/static/js/runtime~main.69fc2fd9.js.map",
-  "index.html": "/derekschatz/graphql-todos/index.html",
-  "precache-manifest.826361ec842a644ac3e34fd88e76f939.js": "/derekschatz/graphql-todos/precache-manifest.826361ec842a644ac3e34fd88e76f939.js",
-  "service-worker.js": "/derekschatz/graphql-todos/service-worker.js"
+  "main.js": "/graphql-todos/static/js/main.303a06e1.chunk.js",
+  "main.js.map": "/graphql-todos/static/js/main.303a06e1.chunk.js.map",
+  "static/js/1.49b969fe.chunk.js": "/graphql-todos/static/js/1.49b969fe.chunk.js",
+  "static/js/1.49b969fe.chunk.js.map": "/graphql-todos/static/js/1.49b969fe.chunk.js.map",
+  "runtime~main.js": "/graphql-todos/static/js/runtime~main.9325f89f.js",
+  "runtime~main.js.map": "/graphql-todos/static/js/runtime~main.9325f89f.js.map",
+  "index.html": "/graphql-todos/index.html",
+  "precache-manifest.67bc1118aec2bd0ca89b62de55efb497.js": "/graphql-todos/precache-manifest.67bc1118aec2bd0ca89b62de55efb497.js",
+  "service-worker.js": "/graphql-todos/service-worker.js"
 }

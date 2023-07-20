@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/derekschatz/graphql-todos/precache-manifest.826361ec842a644ac3e34fd88e76f939.js"
+  "/graphql-todos/precache-manifest.67bc1118aec2bd0ca89b62de55efb497.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/derekschatz/graphql-todos/index.html", {
+workbox.routing.registerNavigationRoute("/graphql-todos/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
