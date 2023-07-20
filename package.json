@@ -1,7 +1,7 @@
 {
   "name": "graphql-todos",
   "version": "0.1.0",
-  "homepage": "https://github.io/derekschatz/graphql-todos",
+  "homepage": "https://derekschatz.github.io/graphql-todos/",
   "private": true,
   "dependencies": {
     "@apollo/client": "^3.7.17",
