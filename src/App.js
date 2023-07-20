@@ -10,8 +10,6 @@ import CircularProgress from '@mui/material/CircularProgress';
 import Alert from '@mui/material/Alert';
 import AlertTitle from '@mui/material/AlertTitle';
 import input from '@mui/material/Input'; 
-import {Switch, Browser as Router, Route} from 'react-router-dom'
-
 
 
 
@@ -26,16 +24,6 @@ import {Switch, Browser as Router, Route} from 'react-router-dom'
 
 
 function App() {
-
-  <Router basename="https://github.com/derekschatz/graphql-todos">
-    <Switch>
-
-      <Route exact path="/" component={App}npm>
-      <SVBHome />
-      </Route>
-      </Switch>
-
-  </Router>
 
   const { loading, error, data } = useQuery(GET_TODOS);
   let input;
