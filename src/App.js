@@ -76,7 +76,7 @@ function App() {
               });
               input.value = "";
             }}
-         className='mb3 overflow-y-scroll' >
+         className='mb3' >
 
             <input 
               ref={node => {
@@ -88,7 +88,7 @@ function App() {
         )}
       </Mutation>
 
-      <div>
+      <div className='overflow-y-scroll'>
         {data.todos.map(({ id, text, done }) => (
           <div key={id}>
             <span className="ma2 todo-text">
