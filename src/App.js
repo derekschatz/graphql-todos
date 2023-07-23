@@ -59,7 +59,7 @@ function App() {
       <Mutation mutation={CREATE_TODO}>
         {(createTodos, { data }) => (
 
-          <form
+          <form className='mb3'
             onSubmit={e => {
               //stops page refresh on "create" event
               e.preventDefault();
@@ -83,7 +83,7 @@ function App() {
                 input = node;
               }}
             className='pa2 f4 b--dashed'/>
-          <button className='pa2 f4 bg-green' type="submit">Create</button>
+          <button className='pa2 f4 bg-green' type="submit">Create an Item</button>
           </form>
         )}
       </Mutation>
@@ -91,7 +91,7 @@ function App() {
       <div>
         {data.todos.map(({ id, text, done }) => (
           <div key={id}>
-            <span className="todo-text">
+            <span className="ma2 todo-text">
               {text}
             </span>
 
