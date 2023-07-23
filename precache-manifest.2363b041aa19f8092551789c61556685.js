@@ -1,7 +1,7 @@
 self.__precacheManifest = [
   {
-    "revision": "303a06e1e5d6ad25de28",
-    "url": "/graphql-todos/static/js/main.303a06e1.chunk.js"
+    "revision": "2113f34a5943be685b58",
+    "url": "/graphql-todos/static/js/main.2113f34a.chunk.js"
   },
   {
     "revision": "49b969fee301d86d4d26",
@@ -12,7 +12,7 @@ self.__precacheManifest = [
     "url": "/graphql-todos/static/js/runtime~main.9325f89f.js"
   },
   {
-    "revision": "dc4a327571fa057373bb7e5b06eb9610",
+    "revision": "813e2defae10ddf3bc71879b6583a361",
     "url": "/graphql-todos/index.html"
   }
 ];
