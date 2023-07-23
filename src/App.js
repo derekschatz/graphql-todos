@@ -59,7 +59,7 @@ function App() {
       <Mutation mutation={CREATE_TODO}>
         {(createTodos, { data }) => (
 
-          <form className='mb3'
+          <form 
             onSubmit={e => {
               //stops page refresh on "create" event
               e.preventDefault();
