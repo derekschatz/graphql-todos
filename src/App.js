@@ -76,7 +76,7 @@ function App() {
               });
               input.value = "";
             }}
-         className='mb3' >
+         className='mb3 overflow-y-scroll' >
 
             <input 
               ref={node => {
