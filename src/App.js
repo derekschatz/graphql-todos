@@ -88,10 +88,10 @@ function App() {
         )}
       </Mutation>
 
-      <div className='overflow-y-scroll'>
+      <div className='flex items-center justify-center flex-column'>
         {data.todos.map(({ id, text, done }) => (
           <div key={id}>
-            <span className="ma2 todo-text">
+            <span className="ma2 todo-text pointer p100 f3">
               {text}
             </span>
 
